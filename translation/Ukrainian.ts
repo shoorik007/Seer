@@ -1643,7 +1643,7 @@
     </message>
     <message>
         <source>Media</source>
-        <translation>Медиа</translation>
+        <translation>Медіа</translation>
     </message>
 </context>
 </TS>
