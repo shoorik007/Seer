@@ -214,11 +214,11 @@
     </message>
     <message>
         <source>Ln</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Col</source>
-        <translation>Колонка</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Character count</source>
@@ -345,7 +345,7 @@
     <message>
         <source>Type</source>
         <translation>Тип
-            </translation>
+      </translation>
     </message>
     <message>
         <source>Opens with</source>
@@ -521,9 +521,9 @@
     </message>
     <message>
         <source>Please share with your friends
-            </source>
+      </source>
         <translation type="vanished">Del gjerne med vennene dine
-            </translation>
+      </translation>
     </message>
     <message>
         <source>Application started.</source>
@@ -802,7 +802,7 @@
     </message>
     <message>
         <source>XML</source>
-        <translation>XML</translation>
+        <translation type="unfinished">XML</translation>
     </message>
     <message>
         <source>Loop Count</source>
@@ -862,39 +862,39 @@
     </message>
     <message>
         <source>Manual</source>
-        <translation>Інструкція</translation>
+        <translation type="unfinished">Інструкція</translation>
     </message>
     <message>
         <source>Normal program</source>
-        <translation>Нормальна програма</translation>
+        <translation type="unfinished">Нормальна програма</translation>
     </message>
     <message>
         <source>Aperture priority</source>
-        <translation>Пріоритет діафрагми</translation>
+        <translation type="unfinished">Пріоритет діафрагми</translation>
     </message>
     <message>
         <source>Shutter priority</source>
-        <translation>Пріоритет витримки</translation>
+        <translation type="unfinished">Пріоритет витримки</translation>
     </message>
     <message>
         <source>Creative program</source>
-        <translation>Творча програма</translation>
+        <translation type="unfinished">Творча програма</translation>
     </message>
     <message>
         <source>Action program</source>
-        <translation>Програма дій</translation>
+        <translation type="unfinished">Програма дій</translation>
     </message>
     <message>
         <source>Portrait mode</source>
-        <translation>Портретний режим</translation>
+        <translation type="unfinished">Портретний режим</translation>
     </message>
     <message>
         <source>Landscape mode</source>
-        <translation>Альбомний режим</translation>
+        <translation type="unfinished">Альбомний режим</translation>
     </message>
     <message>
         <source>Exposure program</source>
-        <translation>Програма експозиції</translation>
+        <translation type="unfinished">Програма експозиції</translation>
     </message>
     <message>
         <source>ISO speed</source>
@@ -902,7 +902,7 @@
     </message>
     <message>
         <source>Shutter speed</source>
-        <translation>Швидкість затвора</translation>
+        <translation type="unfinished">Швидкість затвора</translation>
     </message>
     <message>
         <source>Subject distance</source>
@@ -918,59 +918,59 @@
     </message>
     <message>
         <source>Reserved</source>
-        <translation>Зарезервований</translation>
+        <translation type="unfinished">Зарезервований</translation>
     </message>
     <message>
         <source>Strobe return light not detected</source>
-        <translation>Зворотне світло стробоскопа не виявлено</translation>
+        <translation type="unfinished">Зворотне світло стробоскопа не виявлено</translation>
     </message>
     <message>
         <source>Strobe return light detected</source>
-        <translation>Виявлено зворотне світло стробоскопа</translation>
+        <translation type="unfinished">Виявлено зворотне світло стробоскопа</translation>
     </message>
     <message>
         <source>Flash returned light</source>
-        <translation>Спалах повернув світло</translation>
+        <translation type="unfinished">Спалах повернув світло</translation>
     </message>
     <message>
         <source>Unknown mode</source>
-        <translation>Невідомий режим</translation>
+        <translation type="unfinished">Невідомий режим</translation>
     </message>
     <message>
         <source>Compulsory flash firing</source>
-        <translation>Обов’язкова вогнепальна стрільба</translation>
+        <translation type="unfinished">Обов’язкова вогнепальна стрільба</translation>
     </message>
     <message>
         <source>Compulsory flash suppression</source>
-        <translation>Примусове придушення спалаху</translation>
+        <translation type="unfinished">Примусове придушення спалаху</translation>
     </message>
     <message>
         <source>Automatic mode</source>
-        <translation>Автоматичний режим</translation>
+        <translation type="unfinished">Автоматичний режим</translation>
     </message>
     <message>
         <source>Flash mode</source>
-        <translation>Режим спалаху</translation>
+        <translation type="unfinished">Режим спалаху</translation>
     </message>
     <message>
         <source>average</source>
-        <translation>середній</translation>
+        <translation type="unfinished">середній</translation>
     </message>
     <message>
         <source>center weighted average</source>
-        <translation>середньозважене по центру</translation>
+        <translation type="unfinished">середньозважене по центру</translation>
     </message>
     <message>
         <source>spot</source>
-        <translation>пляма</translation>
+        <translation type="unfinished">пляма</translation>
     </message>
     <message>
         <source>multi-spot</source>
-        <translation>багатоточковий</translation>
+        <translation type="unfinished">багатоточковий</translation>
     </message>
     <message>
         <source>multi-segment</source>
-        <translation>багатосегментний</translation>
+        <translation type="unfinished">багатосегментний</translation>
     </message>
     <message>
         <source>Metering mode</source>
@@ -1045,27 +1045,27 @@
     </message>
     <message>
         <source>Seer will stop running in %1 day(s).</source>
-        <translation>Seer припинить працювати через %1 днів.</translation>
+        <translation type="unfinished">Seer припинить працювати через %1 днів.</translation>
     </message>
     <message>
         <source>The evaluation period has ended.</source>
-        <translation>Період оцінювання закінчився.</translation>
+        <translation type="unfinished">Період оцінювання закінчився.</translation>
     </message>
     <message>
         <source>Please enter your license key.</source>
-        <translation>Будь ласка, введіть свій ліцензійний ключ.</translation>
+        <translation type="unfinished">Будь ласка, введіть свій ліцензійний ключ.</translation>
     </message>
     <message>
         <source>Verifying</source>
-        <translation>Перевірка</translation>
+        <translation type="unfinished">Перевірка</translation>
     </message>
     <message>
         <source>Activated</source>
-        <translation>активовано</translation>
+        <translation type="unfinished">активовано</translation>
     </message>
     <message>
         <source>Failed to activate</source>
-        <translation>Не вдалося активувати</translation>
+        <translation type="unfinished">Не вдалося активувати</translation>
     </message>
 </context>
 <context>
@@ -1073,7 +1073,7 @@
     <message>
         <source>Type</source>
         <translation>Тип
-            </translation>
+      </translation>
     </message>
     <message>
         <source>Controls</source>
@@ -1156,7 +1156,7 @@
     </message>
     <message>
         <source>triggered file path</source>
-        <translation>викликаний шлях до файлу</translation>
+        <translation type="unfinished">викликаний шлях до файлу</translation>
     </message>
     <message>
         <source>Select executable file path</source>
@@ -1235,23 +1235,23 @@
     </message>
     <message>
         <source>Maximum preview size:</source>
-        <translation>Максимальний розмір попереднього перегляду:</translation>
+        <translation type="unfinished">Максимальний розмір попереднього перегляду:</translation>
     </message>
     <message>
         <source>Backup:</source>
-        <translation>Резервна копія:</translation>
+        <translation type="unfinished">Резервна копія:</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation>Експорт</translation>
+        <translation type="unfinished">Експорт</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation>Імпорт</translation>
+        <translation type="unfinished">Імпорт</translation>
     </message>
     <message>
         <source>Reset to default</source>
-        <translation>Скинути до замовчування</translation>
+        <translation type="unfinished">Скинути до замовчування</translation>
     </message>
     <message>
         <source>Confirm &amp; Restart :</source>
@@ -1259,7 +1259,7 @@
     </message>
     <message>
         <source>User defined</source>
-        <translation>Визначений користувачем</translation>
+        <translation type="unfinished">Визначений користувачем</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1326,11 +1326,11 @@
     </message>
     <message>
         <source>Archive</source>
-        <translation>Архів</translation>
+        <translation type="unfinished">Архів</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation>Вимкнено</translation>
+        <translation type="unfinished">Вимкнено</translation>
     </message>
     <message>
         <source>Disable folder contents loading</source>
@@ -1342,7 +1342,7 @@
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;Oops!&lt;/p&gt;&lt;p&gt;No extensions matched.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;На жаль!&lt;/p&gt;&lt;p&gt;Немає відповідних розширень.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;:(&lt;/p&gt;&lt;p&gt;На жаль!&lt;/p&gt;&lt;p&gt;Немає відповідних розширень.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Search extension, e.g.: psd</source>
@@ -1350,15 +1350,15 @@
     </message>
     <message>
         <source>Markdown stylesheet path</source>
-        <translation>Шлях таблиці стилів Markdown</translation>
+        <translation type="unfinished">Шлях таблиці стилів Markdown</translation>
     </message>
     <message>
         <source>Will display property only for extensions in this field, e.g.:</source>
-        <translation>Відображатиме властивості лише для розширень у цьому полі, наприклад:</translation>
+        <translation type="unfinished">Відображатиме властивості лише для розширень у цьому полі, наприклад:</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation>Недійсний</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1588,23 +1588,23 @@
     </message>
     <message>
         <source>Normal:</source>
-        <translation>Нормальний:</translation>
+        <translation type="unfinished">Нормальний:</translation>
     </message>
     <message>
         <source>Fullscreen:</source>
-        <translation>Повноекранний:</translation>
+        <translation type="unfinished">Повноекранний:</translation>
     </message>
     <message>
         <source>Previous:</source>
-        <translation>Попередній:</translation>
+        <translation type="unfinished">Попередній:</translation>
     </message>
     <message>
         <source>Next:</source>
-        <translation>Далі:</translation>
+        <translation type="unfinished">Далі:</translation>
     </message>
     <message>
         <source>Previous Type File:</source>
-        <translation>Файл попереднього типу:</translation>
+        <translation type="unfinished">Файл попереднього типу:</translation>
     </message>
     <message>
         <source>Reload:</source>
@@ -1612,27 +1612,27 @@
     </message>
     <message>
         <source>Next Type File:</source>
-        <translation>Файл наступного типу:</translation>
+        <translation type="unfinished">Файл наступного типу:</translation>
     </message>
     <message>
         <source>Separate:</source>
-        <translation>Окремо:</translation>
+        <translation type="unfinished">Окремо:</translation>
     </message>
     <message>
         <source>Normalize Window:</source>
-        <translation>Нормалізація вікна:</translation>
+        <translation type="unfinished">Нормалізація вікна:</translation>
     </message>
     <message>
         <source>Details View:</source>
-        <translation>Перегляд подробиць:</translation>
+        <translation type="unfinished">Перегляд подробиць:</translation>
     </message>
     <message>
         <source>Open Clicked Item:</source>
-        <translation>Відкрити натиснутий елемент:</translation>
+        <translation type="unfinished">Відкрити натиснутий елемент:</translation>
     </message>
     <message>
         <source>Shift + Click</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Navigation:</source>
@@ -1640,87 +1640,87 @@
     </message>
     <message>
         <source>Alt + Arrow Key</source>
-        <translation>Alt + клавіша зі стрілкою</translation>
+        <translation type="unfinished">Alt + клавіша зі стрілкою</translation>
     </message>
     <message>
         <source>Goto:</source>
-        <translation>Йти до:</translation>
+        <translation type="unfinished">Йти до:</translation>
     </message>
     <message>
         <source>Ctrl + Click</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reveal Clicked Item:</source>
-        <translation>Відкрити натиснутий елемент:</translation>
+        <translation type="unfinished">Відкрити натиснутий елемент:</translation>
     </message>
     <message>
         <source>Alt + Click</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Clicked Item With Seer:</source>
-        <translation>Відкрити натиснутий елемент за допомогою Seer:</translation>
+        <translation type="unfinished">Відкрити натиснутий елемент за допомогою Seer:</translation>
     </message>
     <message>
         <source>Shift + Alt + Click</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restore:</source>
-        <translation>Відновлювати:</translation>
+        <translation type="unfinished">Відновлювати:</translation>
     </message>
     <message>
         <source>Double click</source>
-        <translation>Подвійне клацання</translation>
+        <translation type="unfinished">Подвійне клацання</translation>
     </message>
     <message>
         <source>Fit Height:</source>
-        <translation>Підійде висота:</translation>
+        <translation type="unfinished">По висоті:</translation>
     </message>
     <message>
         <source>Center:</source>
-        <translation>Центр:</translation>
+        <translation type="unfinished">Центр:</translation>
     </message>
     <message>
         <source>Enter / Return</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go To Beginning:</source>
-        <translation>Перейти до початку:</translation>
+        <translation type="unfinished">Перейти до початку:</translation>
     </message>
     <message>
         <source>Increase Speed:</source>
-        <translation>Збільшити швидкість:</translation>
+        <translation type="unfinished">Збільшити швидкість:</translation>
     </message>
     <message>
         <source>Forward 5x:</source>
-        <translation>Вперед 5x:</translation>
+        <translation type="unfinished">Вперед 5x:</translation>
     </message>
     <message>
         <source>Percent Locate:</source>
-        <translation>Відсоток локації:</translation>
+        <translation type="unfinished">Відсоток локації:</translation>
     </message>
     <message>
         <source>0-9</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Backward 15x:</source>
-        <translation>Назад 15x:</translation>
+        <translation type="unfinished">Назад 15x:</translation>
     </message>
     <message>
         <source>Decrease Speed:</source>
-        <translation>Зменшити швидкість:</translation>
+        <translation type="unfinished">Зменшити швидкість:</translation>
     </message>
     <message>
         <source>Backward 5x:</source>
-        <translation>Назад 5x:</translation>
+        <translation type="unfinished">Назад 5x:</translation>
     </message>
     <message>
         <source>Forward 15x:</source>
-        <translation>Вперед 15x:</translation>
+        <translation type="unfinished">Вперед 15x:</translation>
     </message>
     <message>
         <source>Text</source>
@@ -1728,43 +1728,43 @@
     </message>
     <message>
         <source>Locate:</source>
-        <translation>Знайти:</translation>
+        <translation type="unfinished">Знайти:</translation>
     </message>
     <message>
         <source>Render:</source>
-        <translation>Рендер:</translation>
+        <translation type="unfinished">Рендер:</translation>
     </message>
     <message>
         <source>Format:</source>
-        <translation>Формат:</translation>
+        <translation type="unfinished">Формат:</translation>
     </message>
     <message>
         <source>Word Wrap:</source>
-        <translation>Перенос слів:</translation>
+        <translation type="unfinished">Перенос слів:</translation>
     </message>
     <message>
         <source>Line Number:</source>
-        <translation>Номер рядка:</translation>
+        <translation type="unfinished">Номер рядка:</translation>
     </message>
     <message>
         <source>Outline:</source>
-        <translation>Контур:</translation>
+        <translation type="unfinished">Контур:</translation>
     </message>
     <message>
         <source>Annotation:</source>
-        <translation>Анотація:</translation>
+        <translation type="unfinished">Анотація:</translation>
     </message>
     <message>
         <source>Dark:</source>
-        <translation>Темний:</translation>
+        <translation type="unfinished">Темний:</translation>
     </message>
     <message>
         <source>Invalid</source>
-        <translation>Недійсний</translation>
+        <translation type="unfinished">Недійсний</translation>
     </message>
     <message>
         <source>Duplicated shortcut:</source>
-        <translation>Дубльований ярлик:</translation>
+        <translation type="unfinished">Дубльований ярлик:</translation>
     </message>
 </context>
 <context>
@@ -1819,7 +1819,7 @@
     </message>
     <message>
         <source>Internal handled plugins will be used first.</source>
-        <translation>Внутрішні оброблені плагіни будуть використані спочатку.</translation>
+        <translation type="unfinished">Внутрішні оброблені плагіни будуть використані спочатку.</translation>
     </message>
 </context>
 <context>
@@ -1947,6 +1947,10 @@
     <message>
         <source> not found.</source>
         <translation type="vanished"> ikke funnet.</translation>
+    </message>
+    <message>
+        <source>Seer is already running.</source>
+        <translation> type=&quot;vanished&quot;</translation>
     </message>
     <message>
         <source>Update language failed</source>
